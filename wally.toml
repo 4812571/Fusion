@@ -3,7 +3,7 @@ name = "4812571/fusion"
 description = "A modern reactive UI library, built specifically for Roblox and Luau. Reexported Development build."
 license = "MIT"
 authors = ["Elttob"]
-version = "0.3.0-dev.1"
+version = "0.3.0-dylan-dev-1"
 
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
